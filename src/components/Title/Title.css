@@ -1,0 +1,15 @@
+.title {
+  width: 100%;
+  text-align: center;
+  font-size: 3rem;
+  text-decoration: underline;
+  color: #2A77AE;
+  margin-bottom: 50px;
+}
+.guide {
+  width: 100%;
+  text-align: center;
+  font-size: 1.5rem;
+  color: #2A77AE;
+  margin-bottom: 50px;
+}
